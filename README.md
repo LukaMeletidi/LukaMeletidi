@@ -2,7 +2,7 @@
 
 Junior Flutter developer from Tbilisi, Georgia. I've been learning Flutter
 and Dart full-time since January 2026. Before that I spent ten years
-running logistics and procurement for a local Goergian company.
+running logistics and procurement for a local Georgian company.
 
 **Looking for:** a junior or intern Flutter role, remote.
 
